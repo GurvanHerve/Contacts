@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">Contacts</string>
+  <string name="action_sort_az">Sort By A-Z</string>
+  <string name="action_sort_za">Sort By Z-A</string>
+  <string name="username">USERNAME</string>
+  <string name="phone">PHONE</string>
+  <string name="address">ADDRESS</string>
+  <string name="website">WEBSITE</string>
+  <string name="company">COMPANY</string>
+  <string name="no_network">Please check your network connectivity to download your contacts.</string>
+  <string name="no_contacts">You have no contacts.</string>
+</resources>

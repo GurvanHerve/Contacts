@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Contacts</string>
+  <string name="action_sort_az">Trier de A-Z</string>
+  <string name="action_sort_za">Trier de Z-A</string>
+  <string name="username">NOM D\'UTILISATEUR</string>
+  <string name="phone">TELEPHONE</string>
+  <string name="address">ADRESSE</string>
+  <string name="website">SITE WEB</string>
+  <string name="company">ENTREPRISE</string>
+  <string name="no_network">Veuillez vérifier votre connection internet pour télécharger vos contacts.</string>
+  <string name="no_contacts">Vous n\'avez pas de contacts.</string>
+</resources>
